@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Challenge Android</string>
+    <string name="categories">Catégories</string>
+    <string name="subcategories">Sous-catégories</string>
+</resources>
